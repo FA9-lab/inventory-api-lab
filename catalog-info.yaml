@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "inventory-api-lab"
+  description: "Inventory API using centralized platform CI"
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "user:guest"
