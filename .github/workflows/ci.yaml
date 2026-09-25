@@ -7,6 +7,6 @@ on:
 
 jobs:
   service-ci:
-    uses: FA9-lab/platform-workflows/.github/workflows/node-service-ci.yml@main
+    uses: FA9-lab/platform-workflows/.github/workflows/node-service-ci.yml@v1.0.0
     with:
       node-version: '22'
