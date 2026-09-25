@@ -1,8 +1,9 @@
 name: Service CI
 
 on:
-  push:
   pull_request:
+      branches:
+        - main
 
 jobs:
   service-ci:
