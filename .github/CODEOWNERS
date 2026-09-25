@@ -1,1 +1,8 @@
+# Default repository owner
+* @FA9-lab
 
+# CI/CD configuration
+/.github/workflows/ @FA9-lab
+
+# Backstage catalog metadata
+/catalog-info.yaml @FA9-lab
