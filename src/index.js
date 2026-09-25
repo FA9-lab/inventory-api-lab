@@ -1,5 +1,5 @@
 function greeting() {
-  return 'Hello from inventory-api-lab';
+  return 'Hello from broken inventory-api-lab';
 }
 
 if (require.main === module) {
